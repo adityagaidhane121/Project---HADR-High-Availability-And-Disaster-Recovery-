@@ -3,7 +3,7 @@ Step 1:
 ·       Launch a template in the Mumbai region.
 ·       Instance Type: t2.micro
 ·       Selected Amazon Linux 2023 kernel-6.1 AMI
-·       Security Group: Allow SSH (22), HTTP (80), and HTTPS (443) (for testing purposes)
+·       Security Group: Allow SSH (22), HTTP (80), and HTTPS (443) (for testing purposes).
 ·       User data:
 #!/bin/bash
 sudo su -
