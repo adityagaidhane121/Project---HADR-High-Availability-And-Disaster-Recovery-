@@ -1,4 +1,4 @@
-# Project---HADR-High-Availability-And-Disaster-Recovery
+# Project---HADR-High-Availability-And-Disaster-Recover
 <img width="1890" height="867" alt="2-13" src="https://github.com/user-attachments/assets/8e4c4f2a-acfe-47e7-b6d0-6073c2257927" />
 <img width="1951" height="919" alt="2-01" src="https://github.com/user-attachments/assets/d40db95f-382f-46d5-8c70-b40aa4b31456" />
 <img width="1920" height="884" alt="2-02" src="https://github.com/user-attachments/assets/dddb1a8e-c535-4a3d-bb33-0eeecb2967ff" />
